@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade",
+  "description": "Institutional Crypto Trading Terminal with Wallet, Live Depth Order Book, Price Alerts and Biometric Login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
